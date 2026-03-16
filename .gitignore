@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore temporary files
+*.log
+*.tmp
